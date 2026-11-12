@@ -46,3 +46,5 @@ fastboot flash boot_b  boot.img
 - [ianchb/debian-sheng](https://github.com/ianchb/debian-sheng)：本仓库脚本结构与构建流程参照其实现
 - [ianchb/sm8550-mainline](https://github.com/ianchb/sm8550-mainline)：sheng 内核与 boot 镜像
 - Arch Linux ARM：aarch64 基础包与设备包构建环境
+
+<!-- enable-actions-index -->
